@@ -1,0 +1,17 @@
+com.autonomy.aci.client.annotations
+com.autonomy.aci.client.annotations.speedtest
+com.autonomy.aci.client.annotations.testobjects.bugs
+com.autonomy.aci.client.annotations.testobjects.bugs.buildertest
+com.autonomy.aci.client.annotations.testobjects.bugs.pathing
+com.autonomy.aci.client.annotations.testobjects.bugs.profileterm
+com.autonomy.aci.client.annotations.testobjects.bugs.recursion
+com.autonomy.aci.client.annotations.testobjects.bugs.subclass
+com.autonomy.aci.client.annotations.testobjects.bugs.visibility
+com.autonomy.aci.client.annotations.testobjects.controller
+com.autonomy.aci.client.annotations.testobjects.developer
+com.autonomy.aci.client.annotations.testobjects.enums
+com.autonomy.aci.client.annotations.testobjects.pathological
+com.autonomy.aci.client.annotations.testobjects.primitive
+com.autonomy.aci.client.annotations.testobjects.shapes
+com.autonomy.aci.client.annotations.testobjects.structured
+com.autonomy.aci.client.annotations.testobjects.tweets
